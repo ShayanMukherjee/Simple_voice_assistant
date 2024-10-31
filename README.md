@@ -23,5 +23,6 @@ Date: "What's the date?", "Tell me today's date"
 Day: "What day is it?"
 
 Web Search: "Search Python tutorials", "Google latest tech news"
+
 Reminders: "Remind me to drink water in 10 seconds", "Set a reminder for coffee break in 60 seconds"
 
