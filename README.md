@@ -13,16 +13,10 @@ Start the Assistant: Run the program with python main.py. Jarvis will start list
 
 Command Examples:-
 Greetings: "Hello", "Hey", "Hi"
-
 Weather: "What's the weather?", "Current weather in London"
-
 Time: "What's the time?", "Tell me the current time"
-
 Date: "What's the date?", "Tell me today's date"
-
 Day: "What day is it?"
-
 Web Search: "Search Python tutorials", "Google latest tech news"
-
 Reminders: "Remind me to drink water in 10 seconds", "Set a reminder for coffee break in 60 seconds"
 
