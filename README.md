@@ -12,6 +12,7 @@ Usage:-
 Start the Assistant: Run the program with python main.py. Jarvis will start listening and ask how it can assist.
 
 Command Examples:-
+
 Greetings: "Hello", "Hey", "Hi"
 
 Weather: "What's the weather?", "Current weather in London"
